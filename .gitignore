@@ -1,0 +1,7 @@
+/.idea/
+bin/
+.vs/
+.settings/
+.project
+.classpath
+.metals
